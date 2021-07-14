@@ -1,0 +1,32 @@
+.main-input {
+    width: 100%;
+    margin-top: 48px;
+    padding: 8px 24px;
+    box-sizing: border-box;
+    background-color: #eee;
+    color: #000c;
+    border: solid 1px #0004;
+    border-radius: 2px;
+}
+
+.container {
+    width: 100%;
+    margin: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+    max-width: 480px;
+    box-sizing: border-box;
+}
+
+.issues-list {
+    padding: 0;
+}
+
+.issues-list-item {
+    margin-bottom: 16px;
+    padding: 16px 24px;
+    background-color: #bcfbfe;
+    color: #000c;
+    border: solid 1px #0004;
+    border-radius: 2px;
+}
